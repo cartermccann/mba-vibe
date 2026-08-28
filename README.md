@@ -13,6 +13,8 @@ npm run dev -- --port 43173
 
 Open [http://127.0.0.1:43173](http://127.0.0.1:43173).
 
+Public preview: [https://mba-vibe.vercel.app](https://mba-vibe.vercel.app) (Vercel project `mba-vibe`).
+
 Pages: Home, About, Programs, Athletes & Parents, Contact, Privacy, Terms.
 
 The contact form is local-only in this look-see. Submissions stay on the machine and are not emailed.
